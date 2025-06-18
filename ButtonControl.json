@@ -18,9 +18,9 @@
   "M82B-SWITCH": false,
   "M24-SWITCH": false,
   "AMMO-LOCATION": false,
-  "AWM-LOCATION": true,
-  "AWM-Y-LOCATION": true,
-  "M82B-LOCATION": true,
+  "AWM-LOCATION": false,
+  "AWM-Y-LOCATION": false,
+  "M82B-LOCATION": false,
   "ChamsMenu": true,
   "Bypass": true,
   "AntiCheat": true
