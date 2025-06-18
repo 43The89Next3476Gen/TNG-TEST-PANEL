@@ -1,6 +1,6 @@
 {
-  "AimbotN": true,
-  "AimbotN-Keybind": true,
+  "AimbotN": false,
+  "AimbotN-Keybind": false,
   "AimbotD": false,
   "AimbotD-Keybind": false,
   "Camera": false,
