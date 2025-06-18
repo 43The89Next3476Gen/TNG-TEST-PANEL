@@ -1,8 +1,8 @@
 {
   "AimbotN": true,
   "AimbotN-Keybind": true,
-  "AimbotD": true,
-  "AimbotD-Keybind": true,
+  "AimbotD": false,
+  "AimbotD-Keybind": false,
   "Camera": true,
   "Camera-Keybind": true,
   "FastLanding": true,
