@@ -12,6 +12,7 @@
   "Speed": false,
   "Speed-Keybind": false,
   "SniperScope": true,
+  "SniperScope-Keybind": true,
   "AimSniper": false,
   "AWM-SWITCH": false,
   "AWM-Y-SWITCH": false,
